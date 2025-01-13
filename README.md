@@ -40,7 +40,26 @@ Each chapter's summary is saved in a dedicated folder with supporting materials 
 
 📜 License
 This repository is for educational and personal use only. All content remains under the copyright of its respective authors and publishers. Please refer to the official book for comprehensive details.
+## 🌟 Acknowledgments
+This repository is based on the collective learning and study efforts of the following students:
+*   SOTIRIOS
+*   NIKLAS
+*   ROSHIDAT
+*   UGUR
+*   MATHIS
+*   NGUMIMI (KAREN)
+*   김건민
+*   TRISTAN
+*   ANH
+*   GABRIELLA
+*   ZAHID
+*   김채원
+*   THONG
+*   조현준
+*   정현수
+*   MEIYAN
 
+Their contributions have been instrumental in creating this resource. This repository has also benefited from the collective learning and study efforts of all students listed above.
 
 Happy learning! 📊✨
 
